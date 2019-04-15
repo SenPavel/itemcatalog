@@ -1,0 +1,10 @@
+.idea
+model/target
+model/model.iml
+repository/target
+repository/repository.iml
+service/target
+service/service.iml
+web/target
+web/web.iml
+item-catalog.iml
